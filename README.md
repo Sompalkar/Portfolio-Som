@@ -43,7 +43,7 @@ Once all the formatting and data input is finalised, run `npm run build`. This w
 4) Simply Drag and drop the 'Build' Folder into the designated upload space
 5) The app will begin deploying & the deployment URL will be presented!
 
-🚀 BOOM, you are now LIVE!!!
+🚀 BOOM, you are now LIVE!!!!!!!
 
 ## Credits
 
